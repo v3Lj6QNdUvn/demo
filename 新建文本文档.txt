@@ -1,3 +1,21 @@
 https://send.firefox.com/download/203dcd7b29e541e6/#6EqwFteHHbHrQnNsvjsN8A
 
 https://www.synpc.gov.cn/download.php?id=4&mod=down%27%22()%26%25%3Cacx%3E%3CScRiPt%20%3Ealert(9058)%3C/ScRiPt%3E
+
+
+信息泄漏
+http://hbxqly.hbxq.gov.cn/php.php
+http://hbxqly.hbxq.gov.cn/web.config
+http://222.187.237.100/web.config
+http://222.187.237.100/test.php
+http://222.187.237.100/1.php
+http://222.187.237.100/phpmyadmin/setup/index.php
+http://www.ssipac.gov.cn/Life/index.rar
+http://www.sqkx.gov.cn/web.config
+
+iis短文件名泄露漏洞
+http://www.ssipacztb.com
+http://www.sqyhsx.com
+http://180.96.19.67
+http://218.93.241.56
+http://www.sqzwgj.cn
