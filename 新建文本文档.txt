@@ -1,3 +1,2 @@
-http://pds.sslibrary.com/user/login/showlogin
-
- gsstsg     gsstsg2018 
+http://www.jssywhg.com/api.php?op=checkcode&code_len=4&font_size=12&width=65&height=21&font_color=&background=none
+http://www.jssywhg.com/api.php?op=checkcode&code_len=4&font_size=12&width=500&height=500&font_color=&background=none
