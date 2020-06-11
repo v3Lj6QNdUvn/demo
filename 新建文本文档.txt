@@ -6,3 +6,5 @@ http://www.sqzwfw.gov.cn/sqzwy_FrontGlobalAction///*~1*/a.aspx
 http://116.198.199.54//*~1*/a.aspx
 http://180.101.121.87//*~1*/a.aspx
 http://218.93.194.114//*~1*/a.aspx
+http://180.101.122.28//*~1*/a.aspx
+http://218.93.238.77//*~1*/a.aspx
