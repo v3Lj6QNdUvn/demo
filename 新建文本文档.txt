@@ -1,5 +1,7 @@
-iis
 http://www.sqsczx.gov.cn/toa//*~1*/a.aspx
 http://43.226.166.123//*~1*/a.aspx
 http://www.sqzjw.cn/User//*~1*/a.aspx
 http://116.198.199.168//*~1*/a.aspx
+http://www.sqzwfw.gov.cn/sqzwy_FrontGlobalAction///*~1*/a.aspx
+http://116.198.199.54//*~1*/a.aspx
+http://180.101.121.87//*~1*/a.aspx
