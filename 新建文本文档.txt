@@ -1,10 +1,4 @@
-
-
-xss
-http://118.184.216.8/login/show?error=%E7%99%BB%22;%3C/Script%3E%3Cscript%3Ealert(1)%3C/Script%3E%22
-
-用户爆破
-http://118.184.216.8/
-
-iis
-http://218.93.215.38:8088
+http://www.jsshhyjt.com/upload.asp
+http://www.jssqfc.cn/res/member/form_builder.html
+http://ssj.suqian.gov.cn/index.php
+http://222.187.237.100/api/oauth/example/add_pic_t/add_pic_t.php
